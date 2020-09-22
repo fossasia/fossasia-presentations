@@ -1,0 +1,11 @@
+# Engineer's Day 2020
+
+This presentation was given as an introduction to open source hardware, software
+and OSs to students at [BVRIT Hyderabad](http://bvrithyderabad.edu.in/).
+
+## Building the slides
+
+To build the slides, you will need [Pandoc](https://pandoc.org/) and the Source
+Sans Pro font. Just run `make` to build them. If you don't have the font, you
+can remove the respective line from the `Makefile`, or just rewrite it / pick up
+the command from there and adjust it if you have a different environment.
